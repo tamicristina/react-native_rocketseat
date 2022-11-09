@@ -6,7 +6,9 @@
 
 ## Sobre
 
-## Projeto desenvolvido durante o curso de react-native da rocketseat, no qual foi ensinado os conceitos iniciais sobre a ferramenta utilizando o Expo Manager Workflow.
+#### Projeto desenvolvido durante o curso de react-native da rocketseat, no qual foi ensinado os conceitos iniciais sobre a ferramenta utilizando o Expo Manager Workflow.
+
+---
 
 ## Tecnologias &#128736;
 
