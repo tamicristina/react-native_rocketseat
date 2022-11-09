@@ -1,6 +1,8 @@
 # Participants Event List
 
-<video autoplay src="https://user-images.githubusercontent.com/79336444/200830977-5be876c0-5765-433d-8cdd-eb87f549b22b.mp4" width="250px">
+<h1 align="center">
+<img autoplay src="https://user-images.githubusercontent.com/79336444/200831990-90f37fd1-ebe0-4b66-89d8-0325151cd293.gif" width="200px">
+</h1>
 
 ## Sobre
 
